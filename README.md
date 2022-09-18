@@ -12,4 +12,4 @@ Have you any questions? Write to me on Twitter chat, my nickname is: @AKAmatteo
 
 `python3 -m pip install -r requirements.txt`
 
-In the first use you need to set the `config.ini` file with your settings.
+During the first use you need to set the `config.ini` file with your settings.
